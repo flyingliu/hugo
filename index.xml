@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>飞来小侠</title>
+    <link>http://flyingliu.github.io/hugo/</link>
+    <description>Recent content on 飞来小侠</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2015 23:10:09 +0800</lastBuildDate>
+    <atom:link href="http://flyingliu.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://flyingliu.github.io/hugo/about/</link>
+      <pubDate>Tue, 01 Dec 2015 23:10:09 +0800</pubDate>
+      
+      <guid>http://flyingliu.github.io/hugo/about/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae quos soluta quasi amet illo in deserunt, voluptates aliquam harum, non dolor molestias eligendi, minima nulla quibusdam eaque reiciendis tempore corporis officiis consequatur sed! Earum, dicta, nam. Eum esse doloremque eligendi ullam accusantium iste, officia cumque fugit reiciendis consectetur doloribus minima dolorum earum at autem quod facilis laboriosam voluptatum blanditiis. Natus a iusto porro odio consequatur, similique voluptates cupiditate, nam aliquid amet repellendus. Voluptas ad enim consectetur dolorum, nulla deserunt at quod distinctio, facilis expedita suscipit! Quisquam maiores, quam deleniti sequi natus officiis voluptatum. Suscipit autem laborum quam nemo dicta.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
