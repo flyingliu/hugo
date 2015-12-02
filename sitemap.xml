@@ -8,8 +8,28 @@
   </url>
   
   <url>
-    <loc>http://flyingliu.github.io/hugo/about/</loc>
+    <loc>http://flyingliu.github.io/hugo/2015-12-01-about/</loc>
     <lastmod>2015-12-01T23:10:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flyingliu.github.io/hugo/post/2015-10-02-line/</loc>
+    <lastmod>2015-10-02T15:59:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flyingliu.github.io/hugo/post/2015-09-26-test/</loc>
+    <lastmod>2015-09-26T00:19:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flyingliu.github.io/hugo/post/javascript/</loc>
+    <lastmod>2015-09-20T22:48:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://flyingliu.github.io/hugo/about/</loc>
+    <lastmod>2015-09-20T22:48:22+08:00</lastmod>
   </url>
   
 </urlset>

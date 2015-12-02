@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on 飞来小侠</title>
+    <link>http://flyingliu.github.io/hugo/tags/javascript/</link>
+    <description>Recent content in Javascript on 飞来小侠</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Sep 2015 22:48:44 +0800</lastBuildDate>
+    <atom:link href="http://flyingliu.github.io/hugo/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>javascript is a hold</title>
+      <link>http://flyingliu.github.io/hugo/post/javascript/</link>
+      <pubDate>Sun, 20 Sep 2015 22:48:44 +0800</pubDate>
+      
+      <guid>http://flyingliu.github.io/hugo/post/javascript/</guid>
+      <description>
+
+&lt;h1 id=&#34;lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-dicta-impedit:193a16fbbc467581f0cd8e061c629262&#34;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, impedit!&lt;/h1&gt;
+
+&lt;p&gt;这是劳动法师德师风大师傅额。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;var a = [&#39;once&#39;, &#39;a&#39;, &#39;rebound,&#39;, &#39;always&#39;, &#39;a&#39;, &#39;rebound.&#39;]
+var msg = &#39;&#39;
+for (var i = 0, len = a.length
+    i &amp;lt; len
+    i++) {
+    msg += a[i] + &#39; &#39;
+}
+console.log(msg)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
