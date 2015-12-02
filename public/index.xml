@@ -2,22 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2015 23:10:09 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>about</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Tue, 01 Dec 2015 23:10:09 +0800</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus beatae quos soluta quasi amet illo in deserunt, voluptates aliquam harum, non dolor molestias eligendi, minima nulla quibusdam eaque reiciendis tempore corporis officiis consequatur sed! Earum, dicta, nam. Eum esse doloremque eligendi ullam accusantium iste, officia cumque fugit reiciendis consectetur doloribus minima dolorum earum at autem quod facilis laboriosam voluptatum blanditiis. Natus a iusto porro odio consequatur, similique voluptates cupiditate, nam aliquid amet repellendus. Voluptas ad enim consectetur dolorum, nulla deserunt at quod distinctio, facilis expedita suscipit! Quisquam maiores, quam deleniti sequi natus officiis voluptatum. Suscipit autem laborum quam nemo dicta.&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
